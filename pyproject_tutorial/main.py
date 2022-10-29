@@ -1,1 +1,1 @@
-this_is_a_string = "abc"
+print("Hello world!")
