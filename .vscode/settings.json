@@ -1,4 +1,4 @@
-// <PROJECT FOLDER>/.vscode/settings.json
+// <PROJECT_FOLDER>/.vscode/settings.json
 {
   "python.formatting.provider": "black",
   "formattingToggle.affects": [
